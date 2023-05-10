@@ -1,4 +1,4 @@
-# Project 24 - Storm Viewer
+# Project 24 - Swift Strings
 
 Days 80-81 of 100 Days Of Swift
 
@@ -20,6 +20,9 @@ Day 81:
 
 WARNING! Solved challenges in here!
 
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/0fcda5bd-4b98-451c-9545-d8aada7ac4e5" width=700 height=320>
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/f492a187-0859-475c-973f-fc560be9d9a9" width=700 height=320>
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/e4394156-57a0-4067-931e-742d4f4232dc" width=700 height=320>
+<img src="https://github.com/vogtmano/Project-24/assets/92689831/36103698-9739-40fa-a762-765b3f15ac19" width=1300 height=420>
+
+<img src="https://github.com/vogtmano/Project-24/assets/92689831/2c16a72f-f84d-45f2-ab0d-bde62f41a9bf" width=1300 height=420>
+
+<img src="https://github.com/vogtmano/Project-24/assets/92689831/6427521c-73df-46c1-bfd8-299cbb66dfc5" width=1300 height=420>
+
