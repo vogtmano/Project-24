@@ -20,9 +20,10 @@ Day 81:
 
 WARNING! Solved challenges in here!
 
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/36103698-9739-40fa-a762-765b3f15ac19" width=1300 height=420>
+<img width="1241" alt="Screenshot 2023-05-10 at 16 55 06" src="https://github.com/vogtmano/Project-24/assets/92689831/2ae76908-414a-4f2b-abd1-44d534d9171d">
 
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/2c16a72f-f84d-45f2-ab0d-bde62f41a9bf" width=1300 height=420>
+<img width="1236" alt="Screenshot 2023-05-10 at 16 55 18" src="https://github.com/vogtmano/Project-24/assets/92689831/2034b0ef-79b7-4764-b00c-f68fca382760">
 
-<img src="https://github.com/vogtmano/Project-24/assets/92689831/6427521c-73df-46c1-bfd8-299cbb66dfc5" width=1300 height=420>
+<img width="1235" alt="Screenshot 2023-05-10 at 16 55 30" src="https://github.com/vogtmano/Project-24/assets/92689831/84a1b689-0292-496c-8f69-36fc97a3e40a">
+
 
